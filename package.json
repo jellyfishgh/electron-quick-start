@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron/electron-quick-start.git"
+    "url": "git+https://github.com/jellyfishgh/electron-quick-start.git"
   },
   "keywords": [
     "Electron",
@@ -16,12 +16,12 @@
     "start",
     "tutorial"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "jellyfishgh",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/electron/electron-quick-start/issues"
+    "url": "https://github.com/jellyfishgh/electron-quick-start/issues"
   },
-  "homepage": "https://github.com/electron/electron-quick-start#readme",
+  "homepage": "https://github.com/jellyfishgh/electron-quick-start#readme",
   "devDependencies": {
     "electron-prebuilt": "^1.2.0"
   }
